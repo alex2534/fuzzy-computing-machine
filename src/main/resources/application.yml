@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: user
+  Datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    Url: jdbc:mysql://localhost:3306/USER_CREATE_ACCOUNT?useTimexone=true&serverTimezone=UTC
+    username: root
+    password: admin123
